@@ -46,7 +46,7 @@ author:
   email: "melchy.mashiku@gmail.com"
   github: mgm79  # eg. daattali
   twitter: mgmashiku
-  youtube: UCrI7EfUUQuhMEiXT8pkXvsg
+  linkedin: mgmashiku
 
 # Select which links to show in the footer
 footer-links-active:
@@ -62,7 +62,7 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: true
+  youtube: false
   spotify: false
   telephone: false
 
