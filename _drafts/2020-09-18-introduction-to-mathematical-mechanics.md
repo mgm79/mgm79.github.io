@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Neural Tangent Kernel&#58; Answers & Questions
-tags: ["deep learning", "ntk", "tutorial"]
+title: Introduction to Mathematical Mechanics
+tags: ["mathematics", "sets","arithmetric", "logic", "algebra","calculus","tutorial"]
 published: false
 mathjax: true
 invisible: true
 ---
 
-This is a brief tutorial on the *neural tangent kernel* (NTK), which is one of the most popular recent approaches to understanding neural networks. Rather than walk through the derivation of NTK itself, this post focuses on how NTK fits into the broader conceptual space.
+This is a brief tutorial and introduction to the *Mathematical literacy pedagogy* technique called mathematical mechanics, which is an approaches to understanding computational and mathematical thinking. This post will be a priming walk through the foundations of mathematical mechanics, and this focuses on building mental models that can fit into the broader conceptual space.
 
 Some backstory: a few months ago, I decided to take a look at the NTK literature and try to understand what is going on. This quest yielded many fruitful insights, but also left me with some open questions. The goal of this post is twofold: to provide a resource for people who wish to better understand NTK, and to get the opinions of experts on addressing my concerns.
 
