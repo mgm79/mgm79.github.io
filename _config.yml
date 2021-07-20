@@ -25,7 +25,7 @@ description: Personal Website
 navbar-links:
   Home: ""
   Publications: "publications"
-  # Blog: "blog"
+  Blog: "blog"
   # Talks: "talks"
   Resume: "resume"
 
@@ -43,10 +43,11 @@ avatar: "/static/img/mgm.jpeg"
 # Important: you must keep the "name" parameter, everything else you can removeauthor:
 author:
   name: M.G. Mashiku
-  email: "melchy.mashiku@gmail.com"
+  email: "mmashiku1@gsu.edu"
   github: mgm79  # eg. daattali
   twitter: mgmashiku
   linkedin: mgmashiku
+  youtube: channel/UCrI7EfUUQuhMEiXT8pkXvsg
 
 # Select which links to show in the footer
 footer-links-active:
@@ -62,7 +63,7 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
 
