@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: M.G. Mashiku
+title: Mel Mashiku
 
 # Short description of your site
 description: Personal Website
@@ -43,10 +43,10 @@ avatar: "/static/img/mgm.jpeg"
 # Important: you must keep the "name" parameter, everything else you can removeauthor:
 author:
   name: M.G. Mashiku
-  email: "mmashiku1@gsu.edu"
+  email: "mgm37@uw.edu"
   github: mgm79  # eg. daattali
-  twitter: mgmashiku
-  linkedin: mgmashiku
+  twitter: mashiku_m
+  linkedin: mashikum
   youtube: channel/UCrI7EfUUQuhMEiXT8pkXvsg
 
 # Select which links to show in the footer
@@ -102,7 +102,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New_York"
+timezone: "America/Los_Angeles" # New_York
 markdown: kramdown
 mathjax: true
 highlighter: rouge
